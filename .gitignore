@@ -1,0 +1,5 @@
+# build output
+*.exe
+
+# local password store (старые версии)
+winxtrlock/
